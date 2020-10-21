@@ -1,0 +1,2 @@
+# NONSFDX-ARINT1
+NONSFDX ARINT1 folder structure
