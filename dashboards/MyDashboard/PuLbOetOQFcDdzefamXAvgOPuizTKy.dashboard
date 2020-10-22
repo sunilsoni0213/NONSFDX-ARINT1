@@ -62,7 +62,7 @@
         <numberOfColumns>12</numberOfColumns>
         <rowHeight>36</rowHeight>
     </dashboardGridLayout>
-    <dashboardType>SpecifiedUser</dashboardType>
+    <dashboardType>MyTeamUser</dashboardType>
     <description>NewDashboard</description>
     <isGridLayout>true</isGridLayout>
     <runningUser>ardev1@autorabit.com</runningUser>
